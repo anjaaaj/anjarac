@@ -1,1 +1,1 @@
-# anjarac
+# Računalniški praktikum
